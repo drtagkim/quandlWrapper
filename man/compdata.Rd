@@ -1,11 +1,9 @@
 \name{compdata}
 \alias{compdata}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
-}
+\title{Company information}
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
+Company information
 }
 \usage{data("compdata")}
 \format{
