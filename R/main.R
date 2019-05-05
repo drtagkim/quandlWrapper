@@ -1,4 +1,9 @@
 #' MER
+#'
+#' https://www.quandl.com/databases/MF1/documentation
+#' Mergent Global Fundamental Data에서 제공한 데이터를 검색할 수 있습니다.
+#' Quandly의 api_key를 첫번째 인자로, compdata의 compnumber를 두번째 인자로 입력합니다.
+#'
 #' @export
 #' @param api_key API Key object (see also, setapi())
 #' @param compnum company number (see also, compdata)
