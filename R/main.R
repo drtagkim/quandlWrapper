@@ -1,5 +1,5 @@
 #' MER
-#'
+#' @export
 #' @param api_key API Key object (see also, setapi())
 #' @param compnum company number (see also, compdata)
 #' @param pagination If pagination is TRUE, all data are retrieved.
