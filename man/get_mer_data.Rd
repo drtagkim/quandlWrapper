@@ -4,14 +4,12 @@
 \alias{get_mer_data}
 \title{MER}
 \usage{
-get_mer_data(api_key, compnum, pagination = FALSE)
+get_mer_data(api_key, compnum)
 }
 \arguments{
 \item{api_key}{API Key object (see also, setapi())}
 
 \item{compnum}{company number (see also, compdata)}
-
-\item{pagination}{If pagination is TRUE, all data are retrieved.}
 }
 \description{
 MER
